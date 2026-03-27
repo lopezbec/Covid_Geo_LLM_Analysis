@@ -5,10 +5,7 @@ This research project utilizes the [COVID_19_Tweets dataset](https://github.com/
 Please note that for security reasons, the paths and structure of the scripts may be missing or manipulated. 
 
 ## Abstract
-Social media has proven to be a valuable resource as an indicator throughout worldwide events such as the COVID-19 pandemic. This study proposes the utilization of social media posts
-to determine whether analyzation can provide a significant lag correlation to daily cases of COVID-19, in turn providing an early indication of the pandemic's trends compared to the report of 
-official case numbers. This study utilizes an LLM to extract information and insights about social media posts to carry out this hypothesis. The [COVID_19_Tweets dataset](https://github.com/lopezbec/COVID19_Tweets_Dataset)
-is used as a source of social media posts. 
+Social media has proven to be a valuable resource as an indicator throughout worldwide events such as the COVID-19 pandemic. This study proposes the utilization of social media posts to determine whether analyzing these posts can provide a significant lag correlation to daily cases of COVID-19, in turn providing an early indication of the pandemic's trends compared to the report of official case numbers. This study utilizes an LLM to create predictions and extract information from social media posts. The [COVID_19_Tweets dataset](https://github.com/lopezbec/COVID19_Tweets_Dataset) is used as a source of social media posts.
 
 ## Organization
 The various scripts are separated into 3 categories: Python, SLURM and Terminal scripts. 
